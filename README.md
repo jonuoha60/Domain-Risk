@@ -100,6 +100,16 @@ Make sure you have the following installed on your machine:
 
 ## Usage
 
+- **Get Risk Analysis**
+  Upload an image or scan an environment to receive a full risk analysis of potential dangers such as fire hazards, unsafe wiring, structural risks, or environmental threats.
+
+- **Check Surrounding Environment**
+  Use location-based scanning to analyze a specific area (home, school, workplace, or public space) and identify nearby risks using geolocation data.
+
+- **Weather Integration**
+  View real-time current weather conditions for the selected location to understand environmental factors that may contribute to risk (e.g., storms, heat, rain).
+
+  
 ## Future Improvements
 - Implement a login functionality to cater for user authentication and personalized risk analysis.
 
