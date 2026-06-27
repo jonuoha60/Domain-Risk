@@ -78,6 +78,11 @@ Make sure you have the following installed on your machine:
    GOOGLE_MAPS_API_KEY=
    GEMINI_API_KEY=
    GOOGLE_WEATHER_API=
-   PORT=5000
+   PORT=3000
+   ```
+  ### Frontend `.env`
+   ```env
+   VITE_API_URL=http://localhost:3000
+   VITE_GOOGLE_MAP_API=
   ```
 
