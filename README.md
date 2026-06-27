@@ -59,7 +59,9 @@ Make sure you have the following installed on your machine:
    ```
    
 2. **Install dependencies**
+   
     Frontend
+   
    ```bash
    cd frontend
    npm install
@@ -69,18 +71,18 @@ Make sure you have the following installed on your machine:
    cd backend
    npm install
    ```
-3. **Set up environmental variables**
+4. **Set up environmental variables**
 
    Create a `.env` file in both the frontend and backend directories.
 
-   ### Backend `.env`
+   Backend
    ```env
    GOOGLE_MAPS_API_KEY=
    GEMINI_API_KEY=
    GOOGLE_WEATHER_API=
    PORT=3000
    ```
-  ### Frontend `.env`
+  Frontend
    ```env
    VITE_API_URL=http://localhost:3000
    VITE_GOOGLE_MAP_API=
