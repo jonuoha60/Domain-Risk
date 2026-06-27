@@ -27,5 +27,14 @@ In more advanced systems, domain risk analysis may also use images of a location
 - **Real-Time Environmental Scanning**  
   Allows users to upload or capture images and instantly receive a risk evaluation.
 
----
- ## Built With
+## Built With
+
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Google%20Maps%20API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Google%20Vision](https://img.shields.io/badge/Google%20Vision-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)
