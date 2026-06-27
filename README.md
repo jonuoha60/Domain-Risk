@@ -46,6 +46,38 @@ Make sure you have the following installed on your machine:
 - **Git**
 - **Node.js**
 - **npm**
-- **Go**
+- **Docker**
 
----
+## Getting Started
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/jonuoha60/Domain-Risk.git
+   cd Domain-Risk
+   ```
+   
+2. **Install dependencies**
+    Frontend
+   ```bash
+   cd frontend
+   npm install
+   ```
+    Backend
+   ```bash
+   cd backend
+   npm install
+   ```
+3. **Set up environmental variables**
+
+   Create a `.env` file in both the frontend and backend directories.
+
+   ### Backend `.env`
+   ```env
+   GOOGLE_MAPS_API_KEY=
+   GEMINI_API_KEY=
+   GOOGLE_WEATHER_API=
+   PORT=5000
+  ```
+
