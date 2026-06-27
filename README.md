@@ -107,7 +107,7 @@ Make sure you have the following installed on your machine:
   Use location-based scanning to analyze a specific area (home, school, workplace, or public space) and identify nearby risks using geolocation data.
 
 - **Weather Integration**
-  View real-time current weather conditions for the selected location to understand environmental factors that may contribute to risk (e.g., storms, heat, rain).
+  View real-time current weather conditions for the selected location to understand environmental factors that may contribute to risk.
 
   
 ## Future Improvements
