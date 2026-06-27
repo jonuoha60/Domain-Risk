@@ -92,7 +92,7 @@ Make sure you have the following installed on your machine:
 
    You can run both the frontend and backend using Docker with live reload enabled.
 
-   ### Using Docker Compose
+   #### Using Docker Compose
 
    ```bash
    docker compose up --build
