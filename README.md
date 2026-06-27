@@ -38,3 +38,14 @@ In more advanced systems, domain risk analysis may also use images of a location
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Google%20Maps%20API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Google%20Vision](https://img.shields.io/badge/Google%20Vision-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- **Git**
+- **Node.js**
+- **npm**
+- **Go**
+
+---
