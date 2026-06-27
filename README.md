@@ -113,3 +113,5 @@ Make sure you have the following installed on your machine:
 ## Future Improvements
 - Implement a login functionality to cater for user authentication and personalized risk analysis.
 
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
