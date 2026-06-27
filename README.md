@@ -96,4 +96,10 @@ Make sure you have the following installed on your machine:
 
    ```bash
    docker compose up --build
-    
+
+
+## Usage
+
+## Future Improvements
+- Implement a login functionality to cater for user authentication and personalized risk analysis.
+
